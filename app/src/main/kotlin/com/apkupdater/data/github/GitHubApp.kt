@@ -132,6 +132,7 @@ val GitHubApps = listOf(
     GitHubApp("keepass2android.keepass2android", "PhilippC", "keepass2android", notContains("nonet")),
     GitHubApp("com.kunzisoft.keepass.free", "Kunzisoft", "KeePassDX"),
     GitHubApp("org.fossify.keyboard", "FossifyOrg", "Keyboard"),
+    GitHubApp("com.artemchep.keyguard", "AChep", "keyguard-app"),
     GitHubApp("com.crequency.kitx.mobile", "Crequency", "KitX-Mobile"),
     GitHubApp("com.chooloo.www.koler", "Chooloo", "koler"),
     GitHubApp("org.koreader.launcher", "koreader", "koreader"),
